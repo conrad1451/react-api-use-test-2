@@ -1,3 +1,8 @@
+// Sources:
+// [1]: https://stackoverflow.com/questions/41462729/typescript-react-could-not-find-a-declaration-file-for-module-react-material
+
+// If you would like to disable it site wide you can instead edit tsconfig.json and set noImplicitAny to false.
+
 import { useState } from "react";
 // [plugin:vite:import-analysis] Failed to parse source for import analysis because the content contains invalid JS syntax. If you are using JSX, make sure to name the file with the .jsx or .tsx extension.
 // import AxiosOutput from "./apiCaller.js";
