@@ -1,6 +1,6 @@
 # React + Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. One top of the standard Vite setup, [tailwindcss](https://tailwindcss.com/) is installed and ready to be used in React components.
+This is a front-end project written in ReactJS and TailWind that calls theMealDB API to display a random photo of food on each load.
 
 Additional references:
 * [Getting started with Vite](https://vitejs.dev/guide/)
